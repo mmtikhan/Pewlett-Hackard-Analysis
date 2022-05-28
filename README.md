@@ -10,7 +10,7 @@ To determine the number of retiring employees per title, and identify employees 
 -  senior title stuff should be the main priority for hiring by the HR department 
 
 ### Deliverable 2: The Employees Eligible for the Mentorship Program 
-[](res/D2.PNG)
+![](res/D2.PNG)
 - There are 1,549 employees who qualify for the mentorship program.
 - There are more people retiring than there are possible mentors.
 
