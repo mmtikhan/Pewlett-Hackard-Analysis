@@ -5,4 +5,4 @@ To determine the number of retiring employees per title, and identify employees 
 
 ## Results
 Deliverable 1: The Number of Retiring Employees by Title 
-![](D1.png)
+![](res/D1.png)
